@@ -100,6 +100,7 @@ hr.line {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	margin-bottom: 20px;
 }
 
 .skills {
@@ -131,12 +132,11 @@ hr.line {
 } */
 
 .categoryFour div:nth-child(2) {
-	margin: 0px 35px 0px 35px;
+	margin: 0px 25px 0px 25px;
 }
 
 .categoryFour div {
 	text-align: center;
-	margin-bottom: 10px;
 }
 
 .categoryFour p {
